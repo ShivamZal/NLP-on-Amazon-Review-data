@@ -53,3 +53,6 @@
 </p>
 <p><b>Fig 7:</b> A small comparison between results of both NLP transformer by a single-random sample</p>
 
+<h2>Future Goals</h2>
+
+<p>Going forward, this sentiment analysis approach can be applied to larger datasets to gain deeper insights into products and consumer sentiments. Further exploration could involve sentiment trend analysis over time, identifying emerging issues, and providing actionable insights for product improvement and marketing strategies.</p>
