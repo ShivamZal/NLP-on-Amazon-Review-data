@@ -15,23 +15,23 @@
 <p align="center">
   <img src="https://github.com/ShivamZal/NLP-on-Amazon-Review-data/blob/main/1.PNG" alt="GitHub Logo" width="80%" height="60%">
 </p>
-<p><b>Fig 1:/b>Count of reviews by stars</p>
+<p><b>Fig 1:/b> Count of reviews by stars</p>
 
 <p align="center">
   <img src="https://github.com/ShivamZal/NLP-on-Amazon-Review-data/blob/main/2.PNG" alt="GitHub Logo" width="80%" height="60%">
 </p>
-<p><b>Fig 2:/b>Compound score by VADER which is in the range of -1 to 1</p>
+<p><b>Fig 2:</b> Compound score by VADER which is in the range of -1 to 1</p>
 
 <p align="center">
   <img src="https://github.com/ShivamZal/NLP-on-Amazon-Review-data/blob/main/4.PNG" alt="GitHub Logo" width="80%" height="60%">
 </p>
-<p><b>Fig 3:/b>Seasonality and randomness issues for a product</p>
+<p><b>Fig 3:</b>Seasonality and randomness issues for a product</p>
 
 
 <p align="center">
   <img src="https://github.com/ShivamZal/NLP-on-Amazon-Review-data/blob/main/5.PNG" alt="GitHub Logo" width="80%" height="60%">
 </p>
-<p><b>Fig 4:/b>Moving average smoothing applied for randomness</p>
+<p><b>Fig 4:</b> Moving average smoothing applied for randomness</p>
 
   
 <h2>Results and Comparison</h2>
@@ -41,15 +41,15 @@
 <p align="center">
   <img src="https://github.com/ShivamZal/NLP-on-Amazon-Review-data/blob/main/3.PNG" alt="GitHub Logo" width="80%" height="60%">
 </p>
-<p><b>Fig 5:/b>Count of positive, negative and neutral sentiments showing a correlation for positive and negative sentiment whereas neutral sentiment is almost flat for VADER</p>
+<p><b>Fig 5:</b> Count of positive, negative and neutral sentiments showing a correlation for positive and negative sentiment whereas neutral sentiment is almost flat for VADER</p>
 
 <p align="center">
   <img src="https://github.com/ShivamZal/NLP-on-Amazon-Review-data/blob/main/6.PNG" alt="GitHub Logo" width="80%" height="60%">
 </p>
-<p><b>Fig 6:</b>Count of positive, negative and neutral sentiments showing a correlation for positive and negative and neutral sentiment's peak at rating 3 is justified for Roberta</p>
+<p><b>Fig 6:</b> Count of positive, negative and neutral sentiments showing a correlation for positive and negative and neutral sentiment's peak at rating 3 is justified for Roberta</p>
 
 <p align="center">
   <img src="https://github.com/ShivamZal/NLP-on-Amazon-Review-data/blob/main/7.PNG" alt="GitHub Logo" width="80%" height="60%">
 </p>
-<p><b>Fig 7:/b>A small comparison between results of both NLP transformer by a single-random sample</p>
+<p><b>Fig 7:</b> A small comparison between results of both NLP transformer by a single-random sample</p>
 
