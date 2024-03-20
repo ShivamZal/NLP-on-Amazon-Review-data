@@ -15,7 +15,7 @@
 <p align="center">
   <img src="https://github.com/ShivamZal/NLP-on-Amazon-Review-data/blob/main/1.PNG" alt="GitHub Logo" width="80%" height="60%">
 </p>
-<p><b>Fig 1:/b> Count of reviews by stars</p>
+<p><b>Fig 1:</b> Count of reviews by stars</p>
 
 <p align="center">
   <img src="https://github.com/ShivamZal/NLP-on-Amazon-Review-data/blob/main/2.PNG" alt="GitHub Logo" width="80%" height="60%">
